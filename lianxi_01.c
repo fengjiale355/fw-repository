@@ -5,7 +5,7 @@ void haha(GtkButton * button,gpointer user_data)
 	const gchar * text = gtk_button_get_label(button);
 	printf("%s\n",text);
 }
-
+//++++++++++++++++++++++++++++++++++++++
 
 // 定义主函数，没有const
 int main(int argc, char *argv[])
