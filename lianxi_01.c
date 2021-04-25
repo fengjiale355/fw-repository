@@ -6,6 +6,7 @@ void haha(GtkButton * button,gpointer user_data)
 	printf("%s\n",text);
 }
 //++++++++++++++++++++++++++++++++++++++
+//++++++++++++++++++++++++++++++++++++++
 
 // 定义主函数，没有const
 int main(int argc, char *argv[])
